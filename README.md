@@ -16,6 +16,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - [JavaScript](#javascript)
     - [C#](#c-2)
   - [Proof of Concept Apps](#proof-of-concept-apps)
+    - [General Apps](#general-apps)
     - [General CC](#general-cc)
     - [Assets](#assets)
     - [Channels](#channels)
@@ -133,14 +134,18 @@ DEX API provider daemon
 
 
 # Proof of Concept Apps
+### General Apps
+  - Turnkey Blockchain Starter-Kit - [https://github.com/Komodo-Cakeshop/komodo-in-a-box](https://github.com/Komodo-Cakeshop/komodo-in-a-box)
+  - Connecting Komodo Smartc Chains in Web - [https://github.com/imylomylo/blockchain2020](https://github.com/imylomylo/blockchain2020)
 
 ### General CC
-  - TUI for various CC modules written in Python - [https://github.com/tonymorony/komodo-cctools-python](https://github.com/tonymorony/komodo-cctools-python)
+  - TUI for various CC modules written in Python - [https://github.com/tonymorony/komodo-cctools-python](https://github.com/tonymorony/komodo-cctools-python)  
 
 ### Assets
   - Pokemon NFTs - [https://github.com/NOCTLJRNE/Komodo-Pokemon.git](https://github.com/NOCTLJRNE/Komodo-Pokemon.git)
   - Assets CC TUI in Python - [https://github.com/tonymorony/komodo-cctools-python/blob/master/assets_cc_tui.py](https://github.com/tonymorony/komodo-cctools-python/blob/master/assets_cc_tui.py)
   - Buy/Sell NFT Rogue Characters line 1527-1915 - [https://github.com/tonymorony/komodo-cctools-python/blob/master/lib/tuilib.py#L1527](https://github.com/tonymorony/komodo-cctools-python/blob/master/lib/tuilib.py#L1527)
+  - TokensCC walkthrough Guide in Docker - [http://developers.komodoplatform.com/basic-docs/antara/antara-tutorials/beginner-series-part-4.html](http://developers.komodoplatform.com/basic-docs/antara/antara-tutorials/beginner-series-part-4.html)
 
 ### Channels
   - Channels Instant Payment Mechanism - [https://github.com/tonymorony/ChannelsCC-GUI](https://github.com/tonymorony/ChannelsCC-GUI)
@@ -153,6 +158,7 @@ DEX API provider daemon
   - KMDice, desktop wallets to place decentralized dice game - [http://kmdice.bet/](http://kmdice.bet/)
   - DiceCC GUI in Python - [https://github.com/tonymorony/DiceCC-GUI](https://github.com/tonymorony/DiceCC-GUI)
   - KMDice Remote GUI Windows - [https://www.virustotal.com/#/file/1a982d48b6a57d0af5cb5fce71e4c36b6b319847e72a5fc4a4f8f1a0e5d18aca/detection](https://www.virustotal.com/#/file/1a982d48b6a57d0af5cb5fce71e4c36b6b319847e72a5fc4a4f8f1a0e5d18aca/detection)
+  - AppDiceTable in Vue - [https://github.com/imylomylo/komodo-cakeshop/blob/master/src/components/AppDiceTable.vue](https://github.com/imylomylo/komodo-cakeshop/blob/master/src/components/AppDiceTable.vue)
 
 ### Dilithium
   - Dilitium Quantum Security Article - [https://komodoplatform.com/dilithium-quantum-secure-blockchain/](https://komodoplatform.com/dilithium-quantum-secure-blockchain/)
